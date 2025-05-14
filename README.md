@@ -1,20 +1,22 @@
-<h1 align="center" style="color: #6F37AC;">Eber Hernández</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=6F37AC&center=true&vCenter=true&width=300&lines=Eber+Hernández" alt="Nombre en morado" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6F37AC&center=true&vCenter=true&width=435&lines=Programador+Fullstack;Ingeniero+TI;Programador+Java" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
-🎓 Ingeniero en Tecnologías de la Información por la Universidad Tecnológica de León (Campus Acámbaro).  
-📚 Actualmente cursando el programa **Universidad Java - De Cero a Experto** en Udemy con el Ing. Ubaldo Acosta.  
-💡 Me interesa participar en proyectos que sean importantes y útiles para usuarios y empresas.  
+🎓 Ingeniero en Tecnologías de la Información por la Universidad Tecnológica de León (Campus Acámbaro).    
+💡 Interesado en participar en proyectos importantes y útiles para usuarios y empresas.  
 👨‍💻 Experiencia desarrollando sistemas web en PHP, Java y MySQL.  
 
 ---
 
-### 🧰 Tecnologías que uso
+### Tecnologías que uso
 
 ![Java](https://img.shields.io/badge/Java-%23007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
