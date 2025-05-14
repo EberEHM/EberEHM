@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=6F37AC&center=true&vCenter=true&width=300&lines=Eber+Hernández" alt="Nombre en morado" />
+  <img src="https://svgshare.com/i/14QA.svg" alt="Eber Hernández" />
 </p>
 
 <p align="center">
