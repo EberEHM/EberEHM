@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=6000&pause=1000&color=6F37AC&center=true&vCenter=true&width=600&lines=Eber+Emanuel+Hernandez+Martinez" alt="Nombre animado" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=12000&pause=1000&color=6F37AC&center=true&vCenter=true&width=600&lines=Eber+Emanuel+Hernandez+Martinez" alt="Nombre animado" />
 </p>
 
 <p align="center">
