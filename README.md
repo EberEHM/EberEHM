@@ -1,6 +1,6 @@
-<h1 align="center">¡Hola! 👋 Soy Eber Emanuel Hernández Martínez</h1>
+<h1 align="center" style="color: purple;">Eber Hernández</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Programador+Java+Junior;Estudiante+de+Udemy;Apasionado+por+crear+proyectos+útiles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=800080&center=true&vCenter=true&width=435&lines=Programador+Fullstack;Ingeniero+TI;Programador+Java" alt="Typing SVG" />
 </p>
 
 ---
@@ -26,29 +26,10 @@
 
 ---
 
-### 🛠️ Proyectos Destacados
-
-- 🎯 **Sistema POS**  
-  Sistema de ventas con PHP, JavaScript y Bootstrap. Incluye login de usuarios, reportes y seguridad.
-
-- 📊 **Gestor de Encuestas y Egresados**  
-  Aplicación web para importar y analizar encuestas de egresados. Desarrollada en PHP y MySQL para la Universidad Tecnológica de León.
-
----
-
 ### 📈 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EberEHM&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
----
 
-### 📫 Contacto
-
-- 📧 eberemanuel88@gmail.com  
-- 📱 417 106 4348  
-
----
-
-> Gracias por visitar mi perfil. ¡Estoy siempre abierto a aprender y colaborar! 🚀
