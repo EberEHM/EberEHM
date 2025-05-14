@@ -1,11 +1,14 @@
 <p align="center">
-  <img src="https://svgshare.com/i/14QA.svg" alt="Eber Hernández" />
+  <svg width="400" height="60" xmlns="http://www.w3.org/2000/svg">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Fira Code, monospace" font-size="28" fill="#6F37AC">
+      Eber Hernández
+    </text>
+  </svg>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6F37AC&center=true&vCenter=true&width=435&lines=Programador+Fullstack;Ingeniero+TI;Programador+Java" alt="Typing SVG" />
 </p>
-
 ---
 
 ### Sobre mí
